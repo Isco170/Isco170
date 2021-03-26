@@ -8,7 +8,21 @@
 
 [![Isco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isco170&count_private=true&theme=tokyonight&showicons=true)](https://github.com/Isco170/Isco170)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isco170&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/Isco170/Isco170)
+
 - 🌱 I’m currently interested to learn: <strong>React Native</strong>
+
+<p align="left">
+📫  Want to talk to me? Send me a message on one of these social media below
+</p>
+
+<p align="left">
+<a href="mailto:franciscodamana@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-franciscodamana@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white" /></a>
+  
+<a href="https://www.linkedin.com/in/francisco-andré-201687206">
+<img src="https://img.shields.io/badge/Isco170-blue?style=flat-square&logo=linkedin&labelColor=blue" /></a>
+  
+ </p>
 <!--
 - 🔭 I’m currently working on ...
  ...
