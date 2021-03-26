@@ -8,8 +8,7 @@
 
 [![Isco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isco170&count_private=true&theme=tokyonight&showicons=true)](https://github.com/Isco170/Isco170)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isco170&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/Isco170/Isco170)
-- 🌱 I’m currently <p align="left"> interested to learn: <strong>React Native</strong>
-</p>
+- 🌱 I’m currently interested to learn: <strong>React Native</strong>
 <!--
 - 🔭 I’m currently working on ...
  ...
