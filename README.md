@@ -4,7 +4,7 @@
 **Isco170/Isco170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 [![Isco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isco170&count_private=true&theme=tokyonight&showicons=true)](https://github.com/Isco170/Isco170)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isco170&layout=compact&langs_count=5&theme=tokyonight)](https://github.com/Isco170/Isco170)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isco170&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/Isco170/Isco170)
 
 
 - 🔭 I’m currently working on ...
