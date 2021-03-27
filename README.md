@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/-franciscodamana@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white" /></a>
   
 <a href="https://www.linkedin.com/in/francisco-andré-201687206">
-<img src="https://img.shields.io/badge/Isco170-blue?style=flat-square&logo=linkedin&labelColor=blue" /></a>
+<img src="https://img.shields.io/badge/Francisco André-blue?style=flat-square&logo=linkedin&labelColor=blue" /></a>
   
  </p>
  
