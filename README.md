@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my profile 👋
 <p align="left">
-  I am Francisco André <strong>web developer</strong>
+  I am Francisco André
 </p>
 
 <!--
