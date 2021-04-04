@@ -22,12 +22,13 @@
 <a href="https://www.linkedin.com/in/francisco-andré-201687206">
 <img src="https://img.shields.io/badge/Francisco André-blue?style=flat-square&logo=linkedin&labelColor=blue" /></a>
  </p>
- 
-<!--
- ## Total de Visitas no perfil :detective: <br>
+  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Isco170/count.svg" />
- </p> 
+ </p>
+ 
+<!--
+ 
 
 - 🔭 I’m currently working on ...
  ...
